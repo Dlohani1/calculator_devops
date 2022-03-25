@@ -76,12 +76,12 @@
 		    <repository>
         <id>central</id>
         <name>Deepak-PC-releases</name>
-        <url>http://localhost:8081/artifactory/devops-libs-release-local</url>
+        <url>http://localhost:8082/artifactory/devops-libs-release-local</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
         <name>Deepak-PC-snapshots</name>
-        <url>http://localhost:8081/artifactory/devops-libs-snapshot</url>
+        <url>http://localhost:8082/artifactory/devops-libs-snapshot</url>
     </snapshotRepository>
 </distributionManagement>
 </project>
