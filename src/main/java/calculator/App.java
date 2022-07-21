@@ -12,7 +12,7 @@ public class App
         int flag=0,ch;
         double num1,num2;
         Scanner reader = new Scanner(System.in);
-        System.out.println("Calculator System");
+        System.out.println("Calculator Application");
         do
         {
             System.out.println("Option Menu");
