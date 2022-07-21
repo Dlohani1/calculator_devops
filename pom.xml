@@ -84,4 +84,5 @@
         <url>http://localhost:8082/artifactory/devops-libs-snapshot</url>
     </snapshotRepository>
 </distributionManagement>
+	
 </project>
